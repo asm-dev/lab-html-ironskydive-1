@@ -142,3 +142,17 @@ h5 {
     width: 250px;
     height: 180px;
 }
+
+.address {
+    font-size: 0.8em;
+    font-style: normal;
+}
+
+.footer a {
+    color: rgb(67, 163, 230);
+    text-decoration: none;
+}
+
+.footer ul {
+    list-style: none;
+}
