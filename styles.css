@@ -125,4 +125,20 @@ h5 {
 
 .service-box img {
     width: 125px;
-  }
+}
+
+
+#team .section-text {
+    font-size: 1.9em;
+    text-align: center;
+}
+
+#team .member-name {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+#team img {
+    width: 250px;
+    height: 180px;
+}
