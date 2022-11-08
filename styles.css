@@ -156,3 +156,7 @@ h5 {
 .footer ul {
     list-style: none;
 }
+
+.footer {
+    text-align: center;
+}
